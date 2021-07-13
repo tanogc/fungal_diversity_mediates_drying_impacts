@@ -9,7 +9,8 @@ This code re-creates analysis of the field and experimental data
 Please, use this citation to reference the database:
 ```
 Arias-Real, R., Gutiérrez-Cánovas, C., Muñoz, I., Pascoal, P., Menéndez, M.
-Fungal Biodiversity Mediates the Effects of Drying on Freshwater Ecosystem Functioning. Ecosystems (accepted)
+Fungal Biodiversity Mediates the Effects of Drying on Freshwater Ecosystem Functioning. 
+Ecosystems (accepted)
 ```
 
 # R files description:
