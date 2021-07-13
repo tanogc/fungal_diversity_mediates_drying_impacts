@@ -24,7 +24,6 @@ Ecosystems (accepted)
 
 
 ```
-
 Please, send questions or problems related with the use of this code to Rebeca Arias-Real (rebeca.arias.real@gmail.com) 
 or Cayetano Gutiérrez-Cánovas (cayeguti@um.es).
 
